@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
+		<ProjectGuid>{eda7127e-38e3-4dcb-9656-2ee558747420}</ProjectGuid>
 		<TargetFramework>netcoreapp2.1</TargetFramework>
 		<RootNamespace>Microsoft.eShopWeb.FunctionalTests</RootNamespace>
 	</PropertyGroup>
